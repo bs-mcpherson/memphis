@@ -1,5 +1,6 @@
 {
   "name": "memphis-app",
+  "homepage" : "https://main.doh2mc2sbquap.amplifyapp.com/",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
